@@ -4,7 +4,7 @@
 - 选题讨论：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
 - 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
 - 7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)
-- 自用的C++算法模板仓库(待整理):[a1og templates_cpp](https://github.com/lvy010/leetcode)
+- 自用的C++算法模板仓库(待整理):[algo templates_cpp](https://github.com/lvy010/leetcode)
 
 传送门：
 
