@@ -9,16 +9,6 @@ tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](
 - 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
 - 7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)
 
-传送门：
-
-去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
-
-配置好环境可以让坐在电脑前刷题变的更加快乐：[VSCode配置LeetCode调试环境](https://lvynote.blog.csdn.net/article/details/145949237)
-
-题单：灵神的伟大无需多言(ㄒoㄒ）[分享｜如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
-
-整活mygo做主题的时候可能是最有行动力的一集了...[Typora-mygo-theme](https://github.com/lvy010/Typora-lvy-theme)
-
 之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
 
 由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化٩( 'ω' )و
@@ -34,9 +24,9 @@ tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](
 
 - 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
 
-大家有什么有趣的项目/选题/课程推荐/想法 可以直接提issue/pr🙇‍，如果这个repo可以帮你节约一些时间, 或者引起你的一些兴趣和思考，那真的是太好不过啦
+大家有什么有趣的项目/选题/课程推荐/想法/交流/问题...可以直接提issue/pr🙇‍，如果这个repo可以帮你节约一些时间, 或者引起你的一些兴趣和思考，那真的是太好不过啦
 
-（之后应该会对表单进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流吧，不敢说是分享了，因为也只是凭兴趣学了一下orz，目前还是乱序，简单用emoji进行了标记，我有点沉浸在自己的艺术中不知道天地为何物了，不管有没有人看，反正自己是写爽了bush，就当我自言自语吧
+（之后应该会对表单进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流吧，不敢说是分享了，因为也只是凭兴趣学了一下orz，目前还是乱序，简单用emoji进行了标记，有点沉浸在自己的艺术中了，不管有没有人看，反正自己是写爽了bush，赛博仓鼠的学习症实录...
 
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
@@ -62,6 +52,8 @@ tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](
 | [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
+
+传送门：去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)，今年的会在过年前写出，敬请期待٩( 'ω' )و
 
 <a id="llm-slm-vllm"></a>
 
