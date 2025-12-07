@@ -6,7 +6,9 @@
 
 - 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
 
-第一次搭建仓库做分享，百废待兴，大家有什么有趣的项目/选题/课程推荐/想法/交流/问题...可以直接提issue/pr🙇‍，如果这个repo可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦
+第一次搭建仓库做分享，百废待兴，大家有什么有趣的项目/选题/课程推荐/想法/交流/问题...可以直接提issue/pr🙇‍
+
+如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅٩( 'ω' )و
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
 | ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
@@ -31,10 +33,10 @@
 | [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
+#### in process
+进行学习指数的排序和"豆瓣评分"，我的一些学习感受，大部分是凭兴趣学了一下orz，表单目前简单用emoji，不管有没有人看，反正自己是写爽了，赛博仓鼠的学习症实录...
 
-之后会进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流，大部分是凭兴趣学了一下orz，表单目前还是乱序，简单用emoji进行了标记，有点沉浸在自己的艺术中了，不管有没有人看，反正自己是写爽了bush，赛博仓鼠的学习症实录...
-
-#### ThoughtMap
+#### thoughtMap
 
 - 收集后续笔记选题/建议：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
 - 讨论区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
@@ -42,16 +44,18 @@
 
 之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
 
-欢迎一切有助于学习&进步的建议与共创٩( 'ω' )و，可以直接提issue/email me
+欢迎一切有助于学习&进步的建议与共创~可以直接提issue/email me
 
 --------
+### advance notice
 
+> Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
 
 由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化ing
 
-下周plan: 将该仓库改造为wiki（一些待整理工作）
+下周plan: 
 
-1. ~~添加表格版索引~~（update 12.6）
+1. ~~添加表单版索引（update 12.7）~~
 2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
 3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘
 4. 将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代
