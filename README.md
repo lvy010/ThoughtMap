@@ -1,43 +1,12 @@
-tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](https://github.com/lvy010/algo-together/blob/main/Share_the_original_text.md)
-(目前还一切都百废待兴，所以可以的话拜托请先看完一下这篇原文，第一次做仓库分享我也没有什么经验，有什么构想欢迎讨论和提建议，我可能需要一些交流和帮助🥹)
+"那一天,人们回想起了这个仓库的起因,那篇被删掉的文章..."
+仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/algo-together/blob/main/Share_the_original_text.md)有时间的话建议看完这篇文章再看仓库，原文因为一些原因已经不存在了，这是一份备份，里面有创作的初心和心路历程。
+算法学习分享见:[algo-together](https://github.com/lvy010/leetcode)，下面主要是算法之外的一些
 
-#### ThoughtMap
-
-- 算法学习分享:[algo templates_cpp](https://github.com/lvy010/leetcode)
-- 建议收集区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
-- 选题讨论：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
-- 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
-- 7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)
-
-传送门：
-
-去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
-
-配置好环境可以让坐在电脑前刷题变的更加快乐：[VSCode配置LeetCode调试环境](https://lvynote.blog.csdn.net/article/details/145949237)
-
-题单：灵神的伟大无需多言(ㄒoㄒ）[分享｜如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
-
-整活mygo做主题的时候可能是最有行动力的一集了...[Typora-mygo-theme](https://github.com/lvy010/Typora-lvy-theme)
-
-之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
-
-由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化٩( 'ω' )و
-
-下周plan: 将该仓库改造为wiki（一些待整理工作）
-
-1. ~~添加表格版索引~~（update 12.6）
-2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
-3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘
-4. 将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代
-
-## 概览
+# X-Plore
 
 - 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
 
-大家有什么有趣的项目/选题/课程推荐/想法 可以直接提issue/pr🙇‍，如果这个repo可以帮你节约一些时间, 或者引起你的一些兴趣和思考，那真的是太好不过啦
-
-（之后应该会对表单进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流吧，不敢说是分享了，因为也只是凭兴趣学了一下orz，目前还是乱序，简单用emoji进行了标记，我有点沉浸在自己的艺术中不知道天地为何物了，不管有没有人看，反正自己是写爽了bush，就当我自言自语吧
-
+第一次搭建仓库做分享，百废待兴，大家有什么有趣的项目/选题/课程推荐/想法/交流/问题...可以直接提issue/pr🙇‍，如果这个repo可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
 | ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
@@ -62,6 +31,33 @@ tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](
 | [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
+
+之后会进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流，大部分是凭兴趣学了一下orz，表单目前还是乱序，简单用emoji进行了标记，有点沉浸在自己的艺术中了，不管有没有人看，反正自己是写爽了bush，赛博仓鼠的学习症实录...
+
+#### ThoughtMap
+
+- 收集后续笔记选题/建议：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
+- 讨论区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
+- 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
+
+之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
+
+欢迎一切有助于学习&进步的建议与共创٩( 'ω' )و，可以直接提issue/email me
+
+--------
+
+
+由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化ing
+
+下周plan: 将该仓库改造为wiki（一些待整理工作）
+
+1. ~~添加表格版索引~~（update 12.6）
+2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
+3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘
+4. 将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代
+
+-----
+# Map
 
 <a id="llm-slm-vllm"></a>
 
