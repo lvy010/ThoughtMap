@@ -37,15 +37,15 @@
 对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获
 （大部分是凭兴趣学了一下orz，表单暂用emoji先标记了一下，不管有没有人看，反正自己是写爽了，赛博仓鼠的学习症实录...）
 
-#### thoughtMap
+#### thoughtMap（in process）
 
-- 收集后续笔记选题/建议：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
+> 期待收到有助于学习&进步的建议, 支持一切帮助该repo更加容易使用的二创想法~可以直接提issue/pr/email me，welcome to join me~
+
+- 收集后续笔记选题/建议：[X-Plore/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
 - 讨论区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
 - 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
 
 之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
-
-欢迎一切有助于学习&进步的建议与共创~可以直接提issue/email me
 
 --------
 ### advance notice
