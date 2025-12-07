@@ -1,6 +1,6 @@
 "那一天,人们回想起了这个仓库的起因,那篇被删掉的文章..."
-仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/algo-together/blob/main/Share_the_original_text.md)有时间的话建议看完这篇文章再看仓库，原文因为一些原因已经不存在了，这是一份备份，里面有创作的初心和心路历程。
-算法学习分享见:[algo-together](https://github.com/lvy010/leetcode)，下面主要是算法之外的一些
+仓库由来：[leetcode题单分享_第一版完整的原文截图](https://github.com/lvy010/Algo-Atlas/blob/main/Share_the_original_text.md)有时间的话建议看完这篇文章再看仓库，原文因为一些原因已经不存在了，这是一份备份，里面有创作的初心和心路历程。
+算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
 
 # X-Plore
 
