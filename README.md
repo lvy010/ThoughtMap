@@ -37,16 +37,20 @@
 
 #### thoughtMap（in process）
 
-> 期待收到有助于学习&进步的建议, 支持一切帮助该repo更加容易使用的二创想法, 可以直接提issue/pr/email me，welcome to join me~
+后续计划对系列文章进行总结整理，更新至repo:[X-Plore]./X-Plore/从零开始的X学习之路 从零开始的X学习之路 下
 
-- 收集后续笔记选题/建议：[X-Plore/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
-- 讨论区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
+内容比较多，可能需要一些时间，可以先mark，有什么感兴趣的想先看到，可以在issue中对专栏表格中文章进行选题讨论/投票
+
+- [[Discussions]从零开始的投票专栏٩( 'ω' )و #1](https://github.com/lvy010/X-Plore/issues/1)
+- [[Discussions]一些准备做的事情 #2](https://github.com/lvy010/X-Plore/issues/2)
 - 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
 
-之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
+> 期待收到有助于学习&进步的建议, 支持一切帮助该repo更加容易使用的二创想法, 可以直接提issue/pr/email me，welcome to join me~
+
+tips：如果没使用过 GitHub，可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，碰到问题可以追问 AI，刚好实践学一下GitHub使用方法~
 
 --------
-### advance notice
+### to do list
 
 > Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
 
