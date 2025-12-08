@@ -37,7 +37,7 @@
 
 #### thoughtMap（in process）
 
-> 期待收到有助于学习&进步的建议, 支持一切帮助该repo更加容易使用的二创想法~可以直接提issue/pr/email me，welcome to join me~
+> 期待收到有助于学习&进步的建议, 支持一切帮助该repo更加容易使用的二创想法, 可以直接提issue/pr/email me，welcome to join me~
 
 - 收集后续笔记选题/建议：[X-Plore/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
 - 讨论区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
