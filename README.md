@@ -85,7 +85,7 @@ tips:
 
 <a id="llm-slm-vllm"></a>
 
-### [LLM | SLM | vLLM](https://blog.csdn.net/2301_80171004/category_13034013.html)
+### LLM | SLM | vLLM
 
 - [\[nano-vllm\] LLMEngine类 | generate循环调用step | add_request](https://lvynote.blog.csdn.net/article/details/154618233)
 - [\[nano-vllm\] docs | 高性能LLM 推理引擎](https://lvynote.blog.csdn.net/article/details/154618314)
@@ -148,7 +148,7 @@ tips:
 
 <a id="illustratecolumn"></a>
 
-### [illustrate_column](https://blog.csdn.net/2301_80171004/category_13084661.html)
+### illustrate_column
 
 - [\[Column\] How Databricks Implemented Intelligent K8s Load Balancing](https://lvynote.blog.csdn.net/article/details/154849123)
 - [\[Column\] 构建十亿/s级DB | 索引DB&RTDB | Kafka 为中心 | Rust 构建引擎](https://lvynote.blog.csdn.net/article/details/154801072)
@@ -158,7 +158,7 @@ tips:
 
 <a id="开源指南project-based-learn"></a>
 
-### [开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)
+### 开源指南project-based-learn
 
 - [\[MLflow\] CI/CD | 测试&自动格式化工作流 | Ruff格式化器 | 预提交钩子配置](https://lvynote.blog.csdn.net/article/details/153530965)
 - [\[mcp-servers\] 开发框架 | 工具组件 | 如何提交pr](https://lvynote.blog.csdn.net/article/details/148949447)
@@ -167,7 +167,7 @@ tips:
 
 <a id="aigc-math-think"></a>
 
-### [AIGC & Math \[Think\]](https://blog.csdn.net/2301_80171004/category_12992807.html)
+### AIGC & Math
 
 - [\[Manim\] CameraFrame\(Mobject\) | 渲染与交互loop | ShaderWrapper](https://lvynote.blog.csdn.net/article/details/155139602)
 - [\[Manim\] 动画系统play\(Animation\) | config](https://lvynote.blog.csdn.net/article/details/155139528)
@@ -194,7 +194,7 @@ tips:
 
 <a id="ai底层生态"></a>
 
-### [AI底层&生态](https://blog.csdn.net/2301_80171004/category_13007506.html)
+### AI底层&生态
 
 - [\[nano-vllm\] LLMEngine类 | generate循环调用step | add_request](https://lvynote.blog.csdn.net/article/details/154618233)
 - [\[nano-vllm\] docs | 高性能LLM 推理引擎](https://lvynote.blog.csdn.net/article/details/154618314)
@@ -281,7 +281,7 @@ tips:
 
 <a id="ai框架应用"></a>
 
-### [AI框架&应用](https://blog.csdn.net/2301_80171004/category_13001418.html)
+### AI框架&应用
 
 - [\[LivePortrait\] LivePortraitPipeline](https://lvynote.blog.csdn.net/article/details/154883212)
 - [\[AI tradingOS\] AI自动交易器 | 绩效追踪与日志](https://lvynote.blog.csdn.net/article/details/154750778)
@@ -343,13 +343,13 @@ tips:
 
 <a id="强化学习rl"></a>
 
-### [强化学习RL](https://blog.csdn.net/2301_80171004/category_13077964.html)
+### 强化学习RL
 
 - [\[VT-Refine\] 强化学习工作流 | 分布式-近端策略优化\(DPPO\)](https://lvynote.blog.csdn.net/article/details/154257804)
 
 <a id="quantification"></a>
 
-### [Quantification](https://blog.csdn.net/2301_80171004/category_13064766.html)
+### Quantification
 
 - [\[AI tradingOS\] 前端.ts | config.ts转发到后端](https://lvynote.blog.csdn.net/article/details/154751601)
 - [\[AI tradingOS\] trader_manager.go | API集中控制_handleStartTrader](https://lvynote.blog.csdn.net/article/details/154751250)
@@ -368,7 +368,7 @@ tips:
 
 <a id="unmanned-aerial-vehicle"></a>
 
-### [Unmanned Aerial Vehicle](https://blog.csdn.net/2301_80171004/category_13068150.html)
+### Unmanned Aerial Vehicle
 
 - [\[Avoid-MPC\] AvoidanceStateMachine | `Step`心跳函数 | Callback设计](https://lvynote.blog.csdn.net/article/details/154500703)
 - [\[Avoid-MPC\] 基于双KD树模型预测控制的无地图避障飞行](https://lvynote.blog.csdn.net/article/details/154500290)
@@ -387,7 +387,7 @@ tips:
 
 <a id="compilation-principles"></a>
 
-### [Compilation Principles](https://blog.csdn.net/2301_80171004/category_13080979.html)
+### Compilation Principles
 
 - [x86_Assembly Language\(Midterm exam review\)](https://lvynote.blog.csdn.net/article/details/155038336)
 - [\[RE2\] 确定性有限自动机 | DFA::RunStateOnByte | `Prog::SearchDFA` - 入口点](https://lvynote.blog.csdn.net/article/details/154456731)
@@ -396,13 +396,13 @@ tips:
 
 <a id="k8s"></a>
 
-### [K8S](https://blog.csdn.net/2301_80171004/category_13086378.html)
+### K8S
 
 - [\[Column\] How Databricks Implemented Intelligent K8s Load Balancing](https://lvynote.blog.csdn.net/article/details/154849123)
 
 <a id="php"></a>
 
-### [PHP](https://blog.csdn.net/2301_80171004/category_13034449.html)
+### PHP
 
 - [\[身份验证脚手架\] 技术栈特定安装逻辑](https://lvynote.blog.csdn.net/article/details/150701538)
 - [\[身份验证脚手架\] 应用布局如何构建](https://lvynote.blog.csdn.net/article/details/150701486)
@@ -412,7 +412,7 @@ tips:
 
 <a id="分布式-去中心"></a>
 
-### [分布式 | 去中心](https://blog.csdn.net/2301_80171004/category_13037439.html)
+### 分布式 | 去中心
 
 - [\[Column\] How Databricks Implemented Intelligent K8s Load Balancing](https://lvynote.blog.csdn.net/article/details/154849123)
 - [\[Column\] 构建十亿/s级DB | 索引DB&RTDB | Kafka 为中心 | Rust 构建引擎](https://lvynote.blog.csdn.net/article/details/154801072)
@@ -433,13 +433,13 @@ tips:
 
 <a id="product"></a>
 
-### [Product](https://blog.csdn.net/2301_80171004/category_13066986.html)
+### Product
 
 - [\[FSCalendar\] 可定制的iOS日历组件 | docs | Interface Builder](https://lvynote.blog.csdn.net/article/details/153417846)
 
 <a id="robotics"></a>
 
-### [Robotics](https://blog.csdn.net/2301_80171004/category_13026395.html)
+### Robotics
 
 - [\[VT-Refine\] 仿真平台 | Isaac Gym引擎 | easysim-envs配置](https://lvynote.blog.csdn.net/article/details/154258686)
 - [\[VT-Refine\] 强化学习工作流 | 分布式-近端策略优化\(DPPO\)](https://lvynote.blog.csdn.net/article/details/154257804)
@@ -452,7 +452,7 @@ tips:
 
 <a id="cuda"></a>
 
-### [CUDA](https://blog.csdn.net/2301_80171004/category_13008959.html)
+### CUDA
 
 - [\[CUDA#8\] GPU Performance Analysis | NVIDIA Nsight（GUI）](https://lvynote.blog.csdn.net/article/details/155168784)
 - [\[CUDA#7\] Concurrency | Streams](https://lvynote.blog.csdn.net/article/details/155139825)
@@ -478,7 +478,7 @@ tips:
 
 <a id="前端ts-js"></a>
 
-### [前端ts js](https://blog.csdn.net/2301_80171004/category_13002615.html)
+### 前端ts js
 
 - [\[LivePortrait\] docs | Gradio用户界面](https://lvynote.blog.csdn.net/article/details/154883046)
 - [\[AI tradingOS\] 前端.ts | config.ts转发到后端](https://lvynote.blog.csdn.net/article/details/154751601)
@@ -521,7 +521,7 @@ tips:
 
 <a id="qt-lvgl"></a>
 
-### [Qt & LVGL](https://blog.csdn.net/2301_80171004/category_12868545.html)
+### Qt & LVGL
 
 - [\[pilot智驾系统\] 参数系统 | “持久化“ | `QFileSystemWatcher`](https://lvynote.blog.csdn.net/article/details/150770974)
 - [\[车载音响\] docs | 用户界面\(LVGL\)](https://lvynote.blog.csdn.net/article/details/150714791)
@@ -552,14 +552,14 @@ tips:
 
 <a id="v8-js-engine"></a>
 
-### [v8-JS Engine](https://blog.csdn.net/2301_80171004/category_13002619.html)
+### v8-JS Engine
 
 - [\[v8-js\] 日期字符串格式化 | 日期缓存系统](https://lvynote.blog.csdn.net/article/details/149248773)
 - [\[v8-js\] 时间处理 | DateParser | MakeDate | 时间戳 | SIMD指令并行计算](https://lvynote.blog.csdn.net/article/details/149246886)
 
 <a id="必备工具-配置教程"></a>
 
-### [必备工具 | 配置教程](https://blog.csdn.net/2301_80171004/category_12683900.html)
+### 必备工具 | 配置教程
 
 - [\[Manim\] 数学动画引擎 | Quick Start | Example](https://lvynote.blog.csdn.net/article/details/155139422)
 - [\[2FA_tool\] 1Password vs Authy vs Microsoft Authenticator](https://lvynote.blog.csdn.net/article/details/154702407)
@@ -606,7 +606,7 @@ tips:
 
 <a id="解决方法"></a>
 
-### [解决方法](https://blog.csdn.net/2301_80171004/category_12739657.html)
+### 解决方法
 
 - [海外服务器clone gitee慢怎么办](https://lvynote.blog.csdn.net/article/details/155386895)
 - [为嵌入式播放器添加MP3支持：从零到一指南](https://lvynote.blog.csdn.net/article/details/150857215)
@@ -642,7 +642,7 @@ tips:
 
 <a id="docker-yaml配置"></a>
 
-### [Docker & yaml配置](https://blog.csdn.net/2301_80171004/category_12827592.html)
+### Docker & yaml配置
 
 - [\[VT-Refine\] Simulation | Fine-Tuning | docker/run.sh](https://lvynote.blog.csdn.net/article/details/154257158)
 - [\[Backstage\] 软件模板Scaffolder | 定义“Node.js微服务“](https://lvynote.blog.csdn.net/article/details/153273037)
@@ -673,7 +673,7 @@ tips:
 
 <a id="cmu-15-445-大数据"></a>
 
-### [CMU 15-445 & 大数据](https://blog.csdn.net/2301_80171004/category_12991139.html)
+### CMU 15-445 & 大数据
 
 - [\[Column\] 构建十亿/s级DB | 索引DB&RTDB | Kafka 为中心 | Rust 构建引擎](https://lvynote.blog.csdn.net/article/details/154801072)
 - [\[Agent可视化\] 会话管理 | Redis缓存 | PostgreSQL持久化 | 智能上下文处理](https://lvynote.blog.csdn.net/article/details/153741395)
@@ -695,7 +695,7 @@ tips:
 
 <a id="mysql"></a>
 
-### [MySQL](https://blog.csdn.net/2301_80171004/category_12816209.html)
+### MySQL
 
 - [\[Mysql\] Connect | 图形化界面教程（MySQL Workbench）](https://lvynote.blog.csdn.net/article/details/149429537)
 - [\[Mysql\] Connector / C++ 使用](https://lvynote.blog.csdn.net/article/details/149406967)
@@ -717,7 +717,7 @@ tips:
 
 <a id="redis-文档学习"></a>
 
-### [Redis 文档学习](https://blog.csdn.net/2301_80171004/category_12835991.html)
+### Redis 文档学习
 
 - [\[Data Pipeline\] Kafka消息 | Redis缓存 | Docker部署\(Lambda架构\)](https://lvynote.blog.csdn.net/article/details/148774479)
 - [\[Redis#19\] 集群 | 数据分片 | docker模拟 | 故障转移 | 集群扩容](https://lvynote.blog.csdn.net/article/details/144326900)
@@ -742,7 +742,7 @@ tips:
 
 <a id="c"></a>
 
-### [C++](https://blog.csdn.net/2301_80171004/category_12650853.html)
+### C++
 
 - [\[Sum\] C++STL oj常用API](https://lvynote.blog.csdn.net/article/details/146261031)
 - [C++11 异步操作 future类_文档学习](https://lvynote.blog.csdn.net/article/details/145680409)
@@ -778,7 +778,7 @@ tips:
 
 <a id="cnotes"></a>
 
-### [C++_notes](https://blog.csdn.net/2301_80171004/category_12906904.html)
+### C++_notes
 
 - [乱用upper_bound被惩罚了qwq|贪心](https://lvynote.blog.csdn.net/article/details/154803137)
 - [一些C++的学习资料备忘](https://lvynote.blog.csdn.net/article/details/154617282)
@@ -799,14 +799,14 @@ tips:
 
 <a id="stl源码剖析"></a>
 
-### [STL源码剖析](https://blog.csdn.net/2301_80171004/category_12738629.html)
+### STL源码剖析
 
 - [\[Sum\] C++STL oj常用API](https://lvynote.blog.csdn.net/article/details/146261031)
 - [STL \[begin,end\) | end\(\)最后一个元素的后一个（哨兵）](https://lvynote.blog.csdn.net/article/details/146260528)
 
 <a id="c常用库-源码"></a>
 
-### [C++常用库 & 源码](https://blog.csdn.net/2301_80171004/category_12990587.html)
+### C++常用库 & 源码
 
 - [乱用upper_bound被惩罚了qwq|贪心](https://lvynote.blog.csdn.net/article/details/154803137)
 - [\[RE2\] 确定性有限自动机 | DFA::RunStateOnByte | `Prog::SearchDFA` - 入口点](https://lvynote.blog.csdn.net/article/details/154456731)
@@ -844,32 +844,32 @@ tips:
 
 <a id="java"></a>
 
-### [Java](https://blog.csdn.net/2301_80171004/category_13049954.html)
+### Java
 
 - [\[APItest-Karate\] JS引擎 | GraalVM | 桥接Java和JavaScript](https://lvynote.blog.csdn.net/article/details/151794863)
 - [\[APItest-Karate\] ScenarioEngine | 变量管理](https://lvynote.blog.csdn.net/article/details/151792773)
 
 <a id="windows"></a>
 
-### [Windows](https://blog.csdn.net/2301_80171004/category_13037419.html)
+### Windows
 
 - [TUN模式端口冲突 启动失败如何解决？](https://lvynote.blog.csdn.net/article/details/150961694)
 
 <a id="ios-swift"></a>
 
-### [IOS | Swift](https://blog.csdn.net/2301_80171004/category_13037445.html)
+### IOS | Swift
 
 - [\[FSCalendar\] 可定制的iOS日历组件 | docs | Interface Builder](https://lvynote.blog.csdn.net/article/details/153417846)
 
 <a id="android"></a>
 
-### [Android](https://blog.csdn.net/2301_80171004/category_13079228.html)
+### Android
 
 - [\[手机AI开发sdk\] 安卓上的Linux环境](https://lvynote.blog.csdn.net/article/details/154363412)
 
 <a id="测试-自动化-n8n"></a>
 
-### [测试 | 自动化 | n8n](https://blog.csdn.net/2301_80171004/category_12933446.html)
+### 测试 | 自动化 | n8n
 
 - [\[CUDA#8\] GPU Performance Analysis | NVIDIA Nsight（GUI）](https://lvynote.blog.csdn.net/article/details/155168784)
 - [\[nanoGPT\] 检查点 | `ckpt.pt`记忆 | 预训练模型加载`from_pretrained`](https://lvynote.blog.csdn.net/article/details/153966571)
@@ -927,7 +927,7 @@ tips:
 
 <a id="performance-analysis"></a>
 
-### [performance analysis](https://blog.csdn.net/2301_80171004/category_13095539.html)
+### performance analysis
 
 - [\[py-spy\] 二进制与符号解析器 | Python进程监控](https://lvynote.blog.csdn.net/article/details/155361917)
 - [\[py-spy\] 采样引擎 | 进程内存访问](https://lvynote.blog.csdn.net/article/details/155359464)
@@ -935,7 +935,7 @@ tips:
 
 <a id="音视频"></a>
 
-### [音视频](https://blog.csdn.net/2301_80171004/category_12991802.html)
+### 音视频
 
 - [基于PyQt5和ffplay的视频播放器工具](https://lvynote.blog.csdn.net/article/details/154123026)
 - [\[cpprestsdk\] ~异步流处理（eg`basic_istream`、`basic_ostream`、`streambuf`\) 底层](https://lvynote.blog.csdn.net/article/details/153839493)
@@ -967,14 +967,14 @@ tips:
 
 <a id="ffmpeg"></a>
 
-### [FFmpeg](https://blog.csdn.net/2301_80171004/category_13009174.html)
+### FFmpeg
 
 - [\[FFmpeg\] AVFormatContext、AVInputFormat、AVOutputFormat | libavformat](https://lvynote.blog.csdn.net/article/details/149469173)
 - [\[FFmpeg\] 输入输出访问 | 管道系统 | AVIOContext 与 URLProtocol | 门面模式](https://lvynote.blog.csdn.net/article/details/149451181)
 
 <a id="ai会议助手后端框架cpp"></a>
 
-### [AI会议助手后端框架.cpp](https://blog.csdn.net/2301_80171004/category_12994946.html)
+### AI会议助手后端框架.cpp
 
 - [\[Meetily后端框架\] Whisper转录服务器 | 后端服务管理脚本](https://lvynote.blog.csdn.net/article/details/149281906)
 - [\[Meetily后端框架\] 多模型-Pydantic AI 代理-统一抽象 | SQLite管理](https://lvynote.blog.csdn.net/article/details/149280017)
@@ -984,7 +984,7 @@ tips:
 
 <a id="智能驾驶"></a>
 
-### [智能驾驶](https://blog.csdn.net/2301_80171004/category_13001924.html)
+### 智能驾驶
 
 - [\[GazeTracking\] 依赖项管理 | Docker化执行环境](https://lvynote.blog.csdn.net/article/details/153072168)
 - [\[GazeTracking\] 视线数据获取 | refresh](https://lvynote.blog.csdn.net/article/details/153071991)
@@ -1007,7 +1007,7 @@ tips:
 
 <a id="aiot"></a>
 
-### [AIoT](https://blog.csdn.net/2301_80171004/category_13015780.html)
+### AIoT
 
 - [C 语言仓库引入 Rust: MCUboot 为例](https://lvynote.blog.csdn.net/article/details/155424165)
 - [\[HomeKey\] 持久化配置 | NVS闪存-＞加载入RAM-＞C++对象管理](https://lvynote.blog.csdn.net/article/details/155310524)
@@ -1044,7 +1044,7 @@ tips:
 
 <a id="esp32-ai语音助手"></a>
 
-### [esp32--AI语音助手](https://blog.csdn.net/2301_80171004/category_12991774.html)
+### esp32--AI语音助手
 
 - [\[xiaozhi-esp32\] IoT物联网 | Settings | NVS键值存储](https://lvynote.blog.csdn.net/article/details/148839616)
 - [\[xiaozhi-esp32\] 音频处理 | Display | 纯虚锁的抽象思想](https://lvynote.blog.csdn.net/article/details/148830678)
@@ -1053,7 +1053,7 @@ tips:
 
 <a id="linux-os网络"></a>
 
-### [Linux os+网络](https://blog.csdn.net/2301_80171004/category_12699620.html)
+### Linux os+网络
 
 - [\[Linux网络_71\] NAT技术 | 正反代理 | 网络协议总结 | 五种IO模型](https://lvynote.blog.csdn.net/article/details/147855067)
 - [\[Linux网络_70\] ARP协议 | RARP | DNS | ICMP协议](https://lvynote.blog.csdn.net/article/details/147816165)
@@ -1111,7 +1111,7 @@ tips:
 
 <a id="操作系统"></a>
 
-### [操作系统](https://blog.csdn.net/2301_80171004/category_12709372.html)
+### 操作系统
 
 - [computer operating system](https://lvynote.blog.csdn.net/article/details/154386849)
 - [\[手机AI开发sdk\] Aid_code IDE | PC浏览器同步访问](https://lvynote.blog.csdn.net/article/details/154362773)
@@ -1146,7 +1146,7 @@ tips:
 
 <a id="linux网络实验"></a>
 
-### [Linux网络实验](https://blog.csdn.net/2301_80171004/category_12766770.html)
+### Linux网络实验
 
 - [\[无人机sdk\] Open Protocol | 协议包构造&验证](https://lvynote.blog.csdn.net/article/details/154083280)
 - [\[无人机sdk\] `DataSubscription` | SubscriptionPackage](https://lvynote.blog.csdn.net/article/details/154082798)
@@ -1192,7 +1192,7 @@ tips:
 
 <a id="linuxkernel"></a>
 
-### [Linux_kernel](https://blog.csdn.net/2301_80171004/category_12989570.html)
+### Linux_kernel
 
 - [\[linux\] 如何查看linux剩余cpu和内存](https://lvynote.blog.csdn.net/article/details/150700199)
 - [\[config\] Linux下menuconfig与Kconfig基础知识](https://lvynote.blog.csdn.net/article/details/150534913)
@@ -1202,7 +1202,7 @@ tips:
 
 <a id="delve-into-os"></a>
 
-### [Delve into OS](https://blog.csdn.net/2301_80171004/category_12918727.html)
+### Delve into OS
 
 - [\[OS_27\] 现代应用程序架构 | Full System Emulation | VM | Docker](https://lvynote.blog.csdn.net/article/details/148932279)
 - [\[OS_26\] 计算机系统安全 | CIA原则 | 侧信道攻击](https://lvynote.blog.csdn.net/article/details/148825654)
@@ -1226,13 +1226,13 @@ tips:
 
 <a id="算法随记"></a>
 
-### [算法随记](https://blog.csdn.net/2301_80171004/category_12965516.html)
+### 算法随记
 
 - *按要求仅保留专栏标题，未展开文章列表。*
 
 <a id="shell"></a>
 
-### [Shell](https://blog.csdn.net/2301_80171004/category_12958291.html)
+### Shell
 
 - [9.27 枚举|前缀和dp|正则shell](https://lvynote.blog.csdn.net/article/details/152136300)
 - [检查xrdp远程连接桌面卡顿的问题\(附解决sh脚本\)](https://lvynote.blog.csdn.net/article/details/150472421)
@@ -1240,7 +1240,7 @@ tips:
 
 <a id="web3"></a>
 
-### [Web3](https://blog.csdn.net/2301_80171004/category_12950235.html)
+### Web3
 
 - [\[AI tradingOS\] trader_manager.go | API集中控制_handleStartTrader](https://lvynote.blog.csdn.net/article/details/154751250)
 - [\[AI tradingOS\] 市场数据系统 | 多交易所交易接口 | 适配器模式](https://lvynote.blog.csdn.net/article/details/154748500)
@@ -1255,7 +1255,7 @@ tips:
 
 <a id="爬虫"></a>
 
-### [爬虫](https://blog.csdn.net/2301_80171004/category_13027287.html)
+### 爬虫
 
 - [\[AI React Web\]`意图识别`引擎 | `上下文选择算法` | `url内容抓取` | 截图捕获](https://lvynote.blog.csdn.net/article/details/150353493)
 - [\[AI React Web\] E2B沙箱 | WebGPU | 组件树 | 智能重构 | 架构异味检测](https://lvynote.blog.csdn.net/article/details/150352218)
@@ -1263,7 +1263,7 @@ tips:
 
 <a id="system-design"></a>
 
-### [system-design](https://blog.csdn.net/2301_80171004/category_12970916.html)
+### system-design
 
 - [\[HDiffPatch\] docs | 基于流的输入输出 | hpatch_TFileStreamInput | read\(\)](https://lvynote.blog.csdn.net/article/details/154146296)
 - [简易银行系统-＞多线程高并发](https://lvynote.blog.csdn.net/article/details/153924215)
@@ -1303,7 +1303,7 @@ tips:
 
 <a id="rust"></a>
 
-### [Rust](https://blog.csdn.net/2301_80171004/category_12978159.html)
+### Rust
 
 - [C 语言仓库引入 Rust: MCUboot 为例](https://lvynote.blog.csdn.net/article/details/155424165)
 - [\[py-spy\] 二进制与符号解析器 | Python进程监控](https://lvynote.blog.csdn.net/article/details/155361917)
@@ -1334,7 +1334,7 @@ tips:
 
 <a id="golang"></a>
 
-### [golang](https://blog.csdn.net/2301_80171004/category_12957065.html)
+### golang
 
 - [\[AI tradingOS\] trader_manager.go | API集中控制_handleStartTrader](https://lvynote.blog.csdn.net/article/details/154751250)
 - [\[AI tradingOS\] AI自动交易器 | 绩效追踪与日志](https://lvynote.blog.csdn.net/article/details/154750778)
@@ -1363,7 +1363,7 @@ tips:
 
 <a id="c-demo"></a>
 
-### [C# demo](https://blog.csdn.net/2301_80171004/category_13004298.html)
+### C# demo
 
 - [\[C# starter-kit\] Domain Entities | `AuditableEntity`基类 | 跟踪变化 | 软删除](https://lvynote.blog.csdn.net/article/details/152946658)
 - [\[C# starter-kit\] 命令/查询职责分离CQRS | MediatR |](https://lvynote.blog.csdn.net/article/details/152946190)
@@ -1381,7 +1381,7 @@ tips:
 
 <a id="python"></a>
 
-### [Python](https://blog.csdn.net/2301_80171004/category_12927350.html)
+### Python
 
 - [\[py-spy\] 二进制与符号解析器 | Python进程监控](https://lvynote.blog.csdn.net/article/details/155361917)
 - [\[py-spy\] 采样引擎 | 进程内存访问](https://lvynote.blog.csdn.net/article/details/155359464)
@@ -1395,7 +1395,7 @@ tips:
 
 <a id="py常用库-源码"></a>
 
-### [py常用库 & 源码](https://blog.csdn.net/2301_80171004/category_12989252.html)
+### py常用库 & 源码
 
 - [\[Manim\] CameraFrame\(Mobject\) | 渲染与交互loop | ShaderWrapper](https://lvynote.blog.csdn.net/article/details/155139602)
 - [\[Manim\] 动画系统play\(Animation\) | config](https://lvynote.blog.csdn.net/article/details/155139528)
@@ -1432,7 +1432,7 @@ tips:
 
 <a id="computer-vision"></a>
 
-### [Computer Vision](https://blog.csdn.net/2301_80171004/category_13008708.html)
+### Computer Vision
 
 - [\[LivePortrait\] LivePortraitPipeline](https://lvynote.blog.csdn.net/article/details/154883212)
 - [\[LivePortrait\] docs | Gradio用户界面](https://lvynote.blog.csdn.net/article/details/154883046)
@@ -1479,7 +1479,7 @@ tips:
 
 <a id="engine-rendering"></a>
 
-### [Engine & Rendering](https://blog.csdn.net/2301_80171004/category_13000146.html)
+### Engine & Rendering
 
 - [\[nano-vllm\] LLMEngine类 | generate循环调用step | add_request](https://lvynote.blog.csdn.net/article/details/154618233)
 - [\[nano-vllm\] docs | 高性能LLM 推理引擎](https://lvynote.blog.csdn.net/article/details/154618314)
@@ -1487,7 +1487,7 @@ tips:
 
 <a id="游戏设计"></a>
 
-### [游戏设计](https://blog.csdn.net/2301_80171004/category_12979955.html)
+### 游戏设计
 
 - [关于麻将胡牌＆掼蛋发牌＆算法](https://lvynote.blog.csdn.net/article/details/153698922)
 - [\[游戏中的空间划分\] KD树|四叉树|价格系统](https://lvynote.blog.csdn.net/article/details/150950957)
@@ -1504,7 +1504,7 @@ tips:
 
 <a id="elasticsearch"></a>
 
-### [ElasticSearch](https://blog.csdn.net/2301_80171004/category_12964241.html)
+### ElasticSearch
 
 - [\[项目详解\]\[boost搜索引擎#1\] 概述 | 去标签 | 数据清洗 | scp](https://lvynote.blog.csdn.net/article/details/143083224)
 - [\[项目详解\]\[boost搜索引擎#2\] 建立index | 安装分词工具cppjieba | 实现倒排索引](https://lvynote.blog.csdn.net/article/details/143135574)
@@ -1519,7 +1519,7 @@ tips:
 
 <a id="english学习文档"></a>
 
-### [English学习&文档](https://blog.csdn.net/2301_80171004/category_12949377.html)
+### English学习&文档
 
 - [\[fmt\] docs | 现代格式化库](https://lvynote.blog.csdn.net/article/details/154077517)
 - [\[English\] 单词 | 短语积累](https://lvynote.blog.csdn.net/article/details/148414274)
@@ -1536,7 +1536,7 @@ tips:
 
 <a id="vibe-coding"></a>
 
-### [vibe coding](https://blog.csdn.net/2301_80171004/category_12914739.html)
+### vibe coding
 
 - [\[cursor-free-vip\] docs | 配置教程 | 主应用程序控制器 | 核心工具函数](https://lvynote.blog.csdn.net/article/details/148843765)
 - [\[cursor-free-vip\] 机器标识管理 | 自动化注册系统 | OAuth浏览器处理器](https://lvynote.blog.csdn.net/article/details/148869193)
@@ -1548,7 +1548,7 @@ tips:
 
 <a id="data-structuresc"></a>
 
-### [Data structures\[C++\]](https://blog.csdn.net/2301_80171004/category_12857914.html)
+### Data structures\[C++\]
 
 - [R树 ＆删除kv对时搜索子程序](https://lvynote.blog.csdn.net/article/details/153344982)
 - [\[vibe code追踪\] docs | 数据加载与协调visualizer | 节点和边 \(json\)](https://lvynote.blog.csdn.net/article/details/151865647)
@@ -1569,7 +1569,7 @@ tips:
 
 <a id="protobuf-json"></a>
 
-### [ProtoBuf | Json](https://blog.csdn.net/2301_80171004/category_12901088.html)
+### ProtoBuf | Json
 
 - [\[cpprestsdk\] JSON类--数据处理 \(`json::value`, `json::object`, `json::array`\)](https://lvynote.blog.csdn.net/article/details/153839408)
 - [\[C# starter-kit\] 身份验证与授权 Identity & JWT](https://lvynote.blog.csdn.net/article/details/152945526)
@@ -1591,7 +1591,7 @@ tips:
 
 <a id="算法"></a>
 
-### [算法](https://blog.csdn.net/2301_80171004/category_12906931.html)
+### 算法
 
 - [【动态规划】1w字详解子数组问题](https://lvynote.blog.csdn.net/article/details/139333778)
 - [【动态规划】零基础解决路径问题（C++）](https://lvynote.blog.csdn.net/article/details/139231904)
@@ -1623,7 +1623,7 @@ tips:
 
 <a id="lc随想录图"></a>
 
-### [Lc随想录&图](https://blog.csdn.net/2301_80171004/category_12962862.html)
+### Lc随想录&图
 
 - [\[Chat-LangChain\] 会话图\(LangGraph\) | 大语言模型\(LLM\)](https://lvynote.blog.csdn.net/article/details/150429903)
 - [7.19 pq | 并查集模板❗|栈循环|数组转搜索树](https://lvynote.blog.csdn.net/article/details/149453122)
@@ -1638,7 +1638,7 @@ tips:
 
 <a id="lc每日一题周赛"></a>
 
-### [Lc每日一题&周赛](https://blog.csdn.net/2301_80171004/category_12948305.html)
+### Lc每日一题&周赛
 
 - [\[Lc_week\] 447 | 155 | Q1 | hash | pair {}调用](https://lvynote.blog.csdn.net/article/details/147552785)
 - [\[Lc_plus\] static_cast | LCA | 定长滑动窗口](https://lvynote.blog.csdn.net/article/details/148306110)
@@ -1657,7 +1657,7 @@ tips:
 
 <a id="贪心算法"></a>
 
-### [贪心算法](https://blog.csdn.net/2301_80171004/category_12954242.html)
+### 贪心算法
 
 - [贪心](https://lvynote.blog.csdn.net/article/details/153514939)
 - [\[贪心_9\] 合并区间 | 无重叠区间 | 用最少数量的箭引爆气球](https://lvynote.blog.csdn.net/article/details/147539504)
@@ -1672,7 +1672,7 @@ tips:
 
 <a id="动态规划"></a>
 
-### [动态规划](https://blog.csdn.net/2301_80171004/category_12931746.html)
+### 动态规划
 
 - [状态机dp](https://lvynote.blog.csdn.net/article/details/154775020)
 - [10.16 dp|math](https://lvynote.blog.csdn.net/article/details/153391800)
@@ -1702,7 +1702,7 @@ tips:
 
 <a id="lc优选算法100"></a>
 
-### [Lc优选算法_100](https://blog.csdn.net/2301_80171004/category_12905665.html)
+### Lc优选算法_100
 
 - [\[Lc 4.16\] 最近的请求次数 | 统计好子数组的数目 | hash+滑动窗口](https://lvynote.blog.csdn.net/article/details/147266145)
 - [\[Lc18_拓扑排序\] string+queue+map | 火星字典](https://lvynote.blog.csdn.net/article/details/146508282)
@@ -1729,7 +1729,7 @@ tips:
 
 <a id="lc递归，搜索与回溯"></a>
 
-### [Lc递归，搜索与回溯](https://blog.csdn.net/2301_80171004/category_12921893.html)
+### Lc递归，搜索与回溯
 
 - [快慢指针|博弈dfs](https://lvynote.blog.csdn.net/article/details/155301657)
 - [review 回溯](https://lvynote.blog.csdn.net/article/details/149817426)
@@ -1753,7 +1753,7 @@ tips:
 
 <a id="项目"></a>
 
-### [项目](https://blog.csdn.net/2301_80171004/category_12877041.html)
+### 项目
 
 - [\[OpenVela\] 音乐播放器1.0](https://lvynote.blog.csdn.net/article/details/150558888)
 - [What is Json?](https://lvynote.blog.csdn.net/article/details/145291977)
@@ -1761,7 +1761,7 @@ tips:
 
 <a id="实现json-rpc"></a>
 
-### [实现Json-Rpc](https://blog.csdn.net/2301_80171004/category_12880936.html)
+### 实现Json-Rpc
 
 - [\[HomeKey\] MQTT集成 | 建立连接 | 发布-订阅模式](https://lvynote.blog.csdn.net/article/details/155284509)
 - [\[无人机sdk\] `DataSubscription` | SubscriptionPackage](https://lvynote.blog.csdn.net/article/details/154082798)
@@ -1781,7 +1781,7 @@ tips:
 
 <a id="boost搜索引擎"></a>
 
-### [boost搜索引擎](https://blog.csdn.net/2301_80171004/category_12811844.html)
+### boost搜索引擎
 
 - [\[项目\]\[boost搜索引擎#4\] cpp-httplib使用 | log.hpp | 前端 | 测试及总结](https://lvynote.blog.csdn.net/article/details/143185994)
 - [\[项目\]\[boost搜索引擎#3\] Searcher模块 | 单例设计 | 去重 | 构建json](https://lvynote.blog.csdn.net/article/details/143163686)
@@ -1790,13 +1790,13 @@ tips:
 
 <a id="microservice-chat-room"></a>
 
-### [Microservice Chat Room](https://blog.csdn.net/2301_80171004/category_12900964.html)
+### Microservice Chat Room
 
 - [\[ChatClient_1\] 服务拆分 | 环境搭建 | model_1 | 命名](https://lvynote.blog.csdn.net/article/details/145136554)
 
 <a id="设计模式"></a>
 
-### [设计模式](https://blog.csdn.net/2301_80171004/category_12901454.html)
+### 设计模式
 
 - [\[AI tradingOS\] 市场数据系统 | 多交易所交易接口 | 适配器模式](https://lvynote.blog.csdn.net/article/details/154748500)
 - [\[Qlib\] 实验管理 | 记录回测结果 | 无缝集成MLflow](https://lvynote.blog.csdn.net/article/details/153346422)
@@ -1806,7 +1806,7 @@ tips:
 
 <a id="git-cicd"></a>
 
-### [Git CI/CD](https://blog.csdn.net/2301_80171004/category_12852928.html)
+### Git CI/CD
 
 - [海外服务器clone gitee慢怎么办](https://lvynote.blog.csdn.net/article/details/155386895)
 - [\[MLflow\] CI/CD | 测试&自动格式化工作流 | Ruff格式化器 | 预提交钩子配置](https://lvynote.blog.csdn.net/article/details/153530965)
@@ -1837,7 +1837,7 @@ tips:
 
 <a id="others"></a>
 
-### [Others](https://blog.csdn.net/2301_80171004/category_13006988.html)
+### Others
 
 - [如何从小白变成rust糕手](https://lvynote.blog.csdn.net/article/details/153740389)
 - [【2024 CSDN博客之星】C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
@@ -1845,7 +1845,7 @@ tips:
 
 <a id="youtube随记"></a>
 
-### [youtube随记](https://blog.csdn.net/2301_80171004/category_12738626.html)
+### youtube随记
 
 - [\[nanoGPT\] ChatGPT 的 LLM 的全栈实现 | 快速上手](https://lvynote.blog.csdn.net/article/details/153792363)
 - [nlp &rag &tk](https://lvynote.blog.csdn.net/article/details/153738900)
@@ -1862,7 +1862,7 @@ tips:
 
 <a id="network-security"></a>
 
-### [network security](https://blog.csdn.net/2301_80171004/category_12860679.html)
+### network security
 
 - [\[AI tradingOS\] 认证与用户管理 | 2FA | TOTP | JWT](https://lvynote.blog.csdn.net/article/details/154749649)
 - [\[2FA_tool\] 1Password vs Authy vs Microsoft Authenticator](https://lvynote.blog.csdn.net/article/details/154702407)
@@ -1889,7 +1889,7 @@ tips:
 
 <a id="读书笔记"></a>
 
-### [读书笔记](https://blog.csdn.net/2301_80171004/category_12930270.html)
+### 读书笔记
 
 - [x86_Assembly Language\(Midterm exam review\)](https://lvynote.blog.csdn.net/article/details/155038336)
 - [为什么伟大不能被计划](https://lvynote.blog.csdn.net/article/details/151693998)
@@ -1914,7 +1914,7 @@ tips:
 
 <a id="c语言"></a>
 
-### [C语言](https://blog.csdn.net/2301_80171004/category_12650856.html)
+### C语言
 
 - [C 语言仓库引入 Rust: MCUboot 为例](https://lvynote.blog.csdn.net/article/details/155424165)
 - [Foreign Function Interface](https://lvynote.blog.csdn.net/article/details/154878425)
