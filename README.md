@@ -47,6 +47,8 @@ in process：
 
 - [Re:Project - Building Boost-Search from Scratch](https://github.com/lvy010/boost_searcher)
 
+- [Re:Project - Building Json-RPC from Scratch](https://github.com/lvy010/nano-Json-Rpc)
+
 #### the next article
 内容比较多，可能需要一些时间，可以先mark一下~有什么感兴趣想先看到的选题，可以在issue中对专栏表格中的内容进行讨论交流/投票
 
