@@ -1,5 +1,3 @@
-算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
-
 # X-Plore
 
 已经部署到个人网站上啦https://lvyovo-wiki.tech
@@ -8,12 +6,15 @@
 - TypeScript
 - Tailwind CSS
 - Motion
+关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我
 
 --------
 
 Core: Document everything - recording the learning process itself is a contribution.
 
 - 按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
+
+算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
 
 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅٩( 'ω' )و
 
