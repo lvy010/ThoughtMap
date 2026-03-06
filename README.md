@@ -2,8 +2,16 @@
 
 # X-Plore
 
-Core: Document everything - recording the learning process itself is a contribution.
+已经部署到个人网站上啦https://lvyovo-wiki.tech
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Motion
 
+--------
+
+Core: Document everything - recording the learning process itself is a contribution.
 
 - 按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
 
