@@ -1,12 +1,15 @@
 # X-Plore
 
 已部署到个人网站上啦https://lvyovo-wiki.tech
+
+![预览](./png/web.png)
+
+用到的技术栈
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 - Motion
-
 
 关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我
 
