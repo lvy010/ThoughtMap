@@ -43,9 +43,7 @@ Core: Document everything - recording the learning process itself is a contribut
 
 in process：
 
-~~对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获，大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...~~
-
-（注意到在网站的推荐部分有设置评分功能~灵感就来自于这里）
+[√]对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获，大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...
 
 
 ### Re:Discussions
