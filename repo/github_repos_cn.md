@@ -2,7 +2,7 @@
 
 > 仓库总数：**238** 个（个人 28 个，Fork 210 个）
 >
-> LM: Last Modified
+> Sorted by LM (Last Modified) in desc.
 
 ---
 
@@ -33,117 +33,113 @@
 
 ---
 
-## 个人项目（28 个）
+## 个人项目（27 个）
 
 1. [Algo-Atlas](https://github.com/lvy010/Algo-Atlas) ⭐293 `C++`
 
    - 从零开始的算法学习笔记与代码库。系统整理常见数据结构与算法，配合题解和模板，覆盖竞赛与面试场景。
    - LM: 2026-04-18
-2. [X-Plore](https://github.com/lvy010/X-Plore) ⭐218 `Python`
+2. [new-jarvis](https://github.com/WayneWei228/new-jarvis) `Python`
 
-   - CS 学习探索专栏归档。将1500篇个人网站上的博客专栏与文章自动化抓取并生成结构化索引，记录从零探索计算机科学各方向的旅程。
-   - LM: 2026-03-22
-3. [lvy010](https://github.com/lvy010/lvy010) ⭐114
+   - 主动式 AI 助手。具备实时多模态感知能力，能主动理解环境并提供帮助，而非被动等待指令。
+   - LM: 2026-04-09
+3. [lvynote](https://github.com/lvy010/lvynote)
 
-   - GitHub 个人主页 Profile README，展示个人信息与项目概览。
-   - LM: 2026-04-18
-4. [lvynote](https://github.com/lvy010/lvynote) ⭐33
-
-   - 个人笔记备份仓库。集中存放学习笔记，持续整合中。
+   - 个人笔记备份仓库。集中存放两年半一千多篇学习笔记，持续整合中。
    - LM: 2026-03-23
-5. [nano-Json-RPC](https://github.com/lvy010/nano-Json-RPC) ⭐26 `C++`
-
-   - 轻量级 JSON-RPC 实现。解决远程过程调用场景中对简洁、低依赖 RPC 库的需求，提供极简的 C++ 实现。
-   - LM: 2025-12-10
-6. [linux-lab](https://github.com/lvy010/linux-lab) ⭐14 `C++`
-
-   - CSAPP Lab + Linux 内核 + 操作系统与网络编程实验代码与笔记。通过动手实验深入理解系统底层原理。
-   - LM: 2025-12-12
-7. [nanoaios](https://github.com/lvy010/nanoaios) ⭐13 `Rust`
+4. [nanoaios](https://github.com/lvy010/nanoaios) `Rust`
 
    - AI 操作系统（AIOS）的极简实现。用 Rust 构建足够简单的系统级抽象层，为 AI Agent 提供操作系统级的调度与资源管理。
    - LM: 2026-03-23
-8. [github-agent](https://github.com/lvy010/github-agent) ⭐9 `Python`
+5. [X-Plore](https://github.com/lvy010/X-Plore) ⭐218 `Python`
+
+   - CS 学习探索专栏归档。1k5篇个人网站上的博客专栏与文章自动化抓取并生成结构化索引，记录从零探索计算机科学各方向的旅程。
+   - LM: 2026-03-22
+6. [AI-exploration](https://github.com/lvy010/AI-exploration) `Python`
+
+   - AI 技术探索合集。涵盖微信机器人、AI Agent、图像生成、CUDA、机器人、RAG、神经网络等多方向的实验代码。
+   - LM: 2026-03-22
+7. [github-agent](https://github.com/lvy010/github-agent) `Python`
 
    - 自主 GitHub 研究 Agent。通过 LLM + GitHub API 实现智能对话式的用户/仓库分析，解决手动浏览 GitHub 效率低的问题。
    - LM: 2026-03-06
-9. [boost-searcher](https://github.com/lvy010/boost-searcher) ⭐7 `C++`
+8. [mermaid-validator](https://github.com/lvy010/mermaid-validator) `TypeScript`
 
-   - 搜索引擎项目。实现从网页爬取、索引构建到查询排序的完整搜索流程，学习信息检索核心原理。
-   - LM: 2025-12-10
-10. [mermaid-validator](https://github.com/lvy010/mermaid-validator) ⭐6 `TypeScript`
+   - Mermaid 语法校验器。解决 LLM 生成的 Mermaid 图表语法错误问题，自动检测并修复语法错误，保证 100% 可渲染。
+   - LM: 2026-03-06
+9. [Next-AI-Slide](https://github.com/lvy010/Next-AI-Slide) `TypeScript`
 
-    - Mermaid 语法校验器。解决 LLM 生成的 Mermaid 图表语法错误问题，自动检测并修复语法错误，保证 100% 可渲染。
-    - LM: 2026-03-06
-11. [Next-AI-Slide](https://github.com/lvy010/Next-AI-Slide) ⭐6 `TypeScript`
-
-    - AI 幻灯片生成器。输入主题即可用 AI 自动生成 Slidev 演示文稿，解决手动制作幻灯片耗时的问题。
-    - LM: 2026-03-06
-12. [new-jarvis](https://github.com/WayneWei228/new-jarvis) ⭐4 `Python`
-
-    - 主动式 AI 助手。具备实时多模态感知能力，能主动理解环境并提供帮助，而非被动等待指令。
-    - LM: 2026-04-09
-13. [AI-exploration](https://github.com/lvy010/AI-exploration) ⭐4 `Python`
-
-    - AI 技术探索合集。涵盖微信机器人、AI Agent、图像生成、CUDA、机器人、RAG、神经网络等多方向的实验代码。
-    - LM: 2026-03-22
-14. [Issues-bot](https://github.com/lvy010/Issues-bot) `TypeScript`
+   - AI 幻灯片生成器。输入主题即可用 AI 自动生成 Slidev 演示文稿，解决手动制作幻灯片耗时的问题。
+   - LM: 2026-03-06
+10. [Issues-bot](https://github.com/lvy010/Issues-bot) `TypeScript`
 
     - GitHub Issue 自动处理机器人。自动分析 Issue 内容并辅助解决，减少维护者的重复劳动。
     - LM: 2026-03-06
-15. [cpp-sandbox](https://github.com/lvy010/cpp-sandbox) `C++`
-
-    - C++ 库学习沙盒。涵盖 STL、多媒体、网络、UI、机器人等方向的代码笔记与实践。
-    - LM: 2025-12-30
-16. [Vela-Audio](https://github.com/lvy010/Vela-Audio) `C`
-
-    - 基于 Xiaomi OpenVela 框架的图形化音乐播放器。在嵌入式平台上实现带 GUI 的音频播放应用。
-    - LM: 2025-09-30
-17. [Typora-lvy-theme](https://github.com/lvy010/Typora-lvy-theme) `CSS`
-
-    - 自定义 Typora 主题。为 Markdown 编辑器 Typora 设计个性化外观样式。
-    - LM: 2025-09-15
-18. [piano-embers](https://github.com/lvy010/piano-embers)
+11. [piano-embers](https://github.com/lvy010/piano-embers)
 
     - 视频备份仓库。存放个人视频素材。
     - LM: 2026-01-29
-19. [py_experiment](https://github.com/lvy010/py_experiment) `Python`
+12. [cpp-sandbox](https://github.com/lvy010/cpp-sandbox) `C++`
+
+    - C++ 库学习沙盒。涵盖 STL、多媒体、网络、UI、机器人等方向的代码笔记与实践。
+    - LM: 2025-12-30
+13. [py_experiment](https://github.com/lvy010/py_experiment) `Python`
 
     - Python 课程实验代码。存放课程作业与实验项目。
     - LM: 2025-12-28
-20. [web.asia](https://github.com/lvy010/web.asia) `HTML`
+14. [web.asia](https://github.com/lvy010/web.asia) `HTML`
 
     - 个人作品集网站。用 HTML 搭建的个人 Portfolio 页面，展示项目经历。
     - LM: 2025-12-17
-21. [linux-core](https://github.com/lvy010/linux-core) `C`
+15. [linux-lab](https://github.com/lvy010/linux-lab) `C++`
+
+    - CSAPP Lab + Linux 内核 + 操作系统与网络编程实验代码与笔记。通过动手实验深入理解系统底层原理。
+    - LM: 2025-12-12
+16. [linux-core](https://github.com/lvy010/linux-core) `C`
 
     - Linux 内核学习笔记。阅读内核源码过程中的代码注释与整理（进行中）。
     - LM: 2025-12-11
-22. [OpenMind](https://github.com/lvy010/OpenMind)
+17. [nano-Json-RPC](https://github.com/lvy010/nano-Json-RPC) `C++`
+
+    - 轻量级 JSON-RPC 实现。解决远程过程调用场景中对简洁、低依赖 RPC 库的需求，提供极简的 C++ 实现。
+    - LM: 2025-12-10
+18. [boost-searcher](https://github.com/lvy010/boost-searcher) `C++`
+
+    - 搜索引擎项目。实现从网页爬取、索引构建到查询排序的完整搜索流程，学习信息检索核心原理。
+    - LM: 2025-12-10
+19. [OpenMind](https://github.com/lvy010/OpenMind)
 
     - 协作知识共享空间。提供开放的思考与知识分享平台。
     - LM: 2025-12-08
-23. [rCore](https://github.com/lvy010/rCore)
+20. [rCore](https://github.com/lvy010/rCore)
 
     - 用 Rust 编写操作系统。跟随 rCore 教程从零实现一个教学操作系统，深入理解 OS 原理。
     - LM: 2025-10-21
-24. [typora-auto-scroll](https://github.com/lvy010/typora-auto-scroll)
+21. [typora-auto-scroll](https://github.com/lvy010/typora-auto-scroll)
 
     - Typora 自动滚动插件。解决长文阅读时需要手动翻页的不便，实现自动滚屏功能。
     - LM: 2025-10-09
-25. [In-code](https://github.com/lvy010/In-code) `JavaScript`
+22. [Vela-Audio](https://github.com/lvy010/Vela-Audio) `C`
+
+    - 基于 Xiaomi OpenVela 框架的图形化音乐播放器。在嵌入式平台上实现带 GUI 的音频播放应用。
+    - LM: 2025-09-30
+23. [In-code](https://github.com/lvy010/In-code) `JavaScript`
 
     - 计算机内部资源收藏网站。汇集计算机相关学习资料与链接的导航站点。
     - LM: 2025-09-17
-26. [Homework](https://github.com/lvy010/Homework)
+24. [Homework](https://github.com/lvy010/Homework)
 
     - 学校课程代码。存放日常课程作业与编程练习。
     - LM: 2025-09-16
-27. [sum-bot](https://github.com/lvy010/sum-bot) `HTML`
+25. [Typora-lvy-theme](https://github.com/lvy010/Typora-lvy-theme) `CSS`
+
+    - 自定义 Typora 主题。为 Markdown 编辑器 Typora 设计个性化外观样式。
+    - LM: 2025-09-15
+26. [sum-bot](https://github.com/lvy010/sum-bot) `HTML`
 
     - 摘要助手。输入长文本自动生成精简摘要，提升阅读效率。
     - LM: 2025-09-15
-28. [Component-study](https://github.com/lvy010/Component-study) `C#`
+27. [Component-study](https://github.com/lvy010/Component-study) `C#`
 
     - 组件学习笔记。记录各类软件组件的学习代码与实践。
     - LM: 2025-09-02
