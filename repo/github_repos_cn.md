@@ -1,6 +1,6 @@
 # GitHub repo索引 — lvy010
 
-> 仓库总数：**238** 个（个人 28 个，Fork 210 个）
+> 仓库总数：**238** 个
 >
 > Sorted by LM (Last Modified) in desc.
 
@@ -146,7 +146,93 @@
 
 ---
 
-## Fork 项目（210 个）— 按方向分类
+## Fork 项目（210 个）
+
+> github 是最好的一手资料
+
+用到跑过的demo都可以fork一份，一般有写文档梳理思考/记录踩坑的习惯
+
+[ing]同步组织-上传整理 [lvynote](https://github.com/lvy010/lvynote)
+
+### **Quick Index**
+
+**AI Agent / Agent 框架** (39)
+
+`multica` `Agent-Reach` `goose` `ClawAegis` `hermes-hudui` `gbrain` `OpenHarness` `hermes-agent` `AstrBot` `agentscope` `paperclip` `everything-claude-code` `OpenSpace` `ChatDev` `mastra` `openfang` `superpowers` `CLI-Anything` `EverMemOS` `ironclaw` `personaplex` `chatgpt-on-wechat` `evolver` `zeroclaw` `nanobot` `LobsterAI` `hive` `joyagent-jdgenie` `OpenManus` `BettaFish` `nanoclaw` `helix` `moltbot` `agno` `airi` `AIOS` `Shannon` `neuralagent` `Neuro`
+
+**AI 编码 Agent / Harness** (14)
+
+`Archon` `claude-desktop-buddy` `pi-mono` `motion-skills` `pi-autoresearch` `claw-code` `rtk` `caveman` `open-swe` `gstack` `langchain-skills` `oh-my-opencode` `skills` `SWE-agent`
+
+**LLM 推理与训练** (22)
+
+`leetgpu-challenges` `MCITlib` `LLMs-from-scratch` `mlflow` `modular` `llmfit` `TensorRT` `autoresearch` `verl` `Qwen3.5` `LlamaFactory` `candle` `nanochat` `ort` `stable-diffusion.cpp` `triton` `JiT` `llama.cpp` `cuda-training` `ai-bindgen` `nano-vllm` `MegEngine`
+
+**RAG / 知识检索 / 记忆** (10)
+
+`hindsight` `OpenViking` `supermemory` `memvid` `zvec` `PageIndex` `code-graph-rag` `notebooklm-py` `mem0` `nano-graphrag`
+
+**MCP / Agent 工具链** (11)
+
+`browser` `opendataloader-pdf` `semantic-router` `firecrawl` `agent-browser` `clawfeed` `webmcp` `chrome-devtools-mcp` `blender-mcp` `fastmcp` `awesome-mcp-servers`
+
+**AIGC：图像 / 视频 / 音频** (20)
+
+`VoxCPM` `video-use` `spark` `flux2` `frontend-slides` `AfterglowRender` `ComfyUI` `next-ai-draw-io` `slidev` `omnilingual-asr` `RedInk` `ViMax` `manim` `audacity` `Open-Sora-Plan` `MegaTTS3` `163MusicLyrics` `Director` `LivePortrait` `Text-To-Video-AI`
+
+**世界模型 / AI 研究** (6)
+
+`tribev2` `le-wm` `worldfm` `Motus` `behavior-1k-solution` `planet`
+
+**金融量化 / 数据分析** (4)
+
+`turboquant_plus` `polymarket-cli` `daily_stock_analysis` `nofx`
+
+**机器人 / IoT / 硬件** (11)
+
+`CCTV-Smartphone-AI-Monitoring` `espectre` `wifi-densepose` `Arduino-FOC` `micropython` `visp` `PythonRobotics` `rokoko-studio-live-blender` `packages_demos` `OpenAIglasses_for_Navigation` `FrogPilot`
+
+**操作系统 / 系统编程** (7)
+
+`build` `cx-core` `box64` `opentitan` `serenity` `rpmalloc` `2025a-rcore-lvy010`
+
+**数据库 / 存储引擎** (7)
+
+`turso` `sqlite` `postgres` `rustfs` `rocksdb` `nebula` `leveldb`
+
+**Rust 生态** (10)
+
+`bevy` `tantivy` `numa` `makepad` `aisdk` `rig` `arroyo` `libra` `termimad` `actix-realworld-example-app`
+
+**C/C++ 基础设施** (8)
+
+`Coflux` `testlib` `abseil-cpp` `cpp-httplib` `Crow` `drogon` `cpprestsdk` `Cello`
+
+**Web / 前端 / 浏览器** (10)
+
+`tab-out` `Lumina-Note` `flutter` `vite` `chromium` `shiki` `lynx` `helium` `ladybird` `carbonyl`
+
+**开发工具 / 编辑器** (9)
+
+`fff.nvim` `athas` `FastCode` `Trellis` `mega` `neovim` `mars.nvim` `git` `kickstart.nvim`
+
+**安全 / 网络安全** (5)
+
+`strongswan` `social-analyzer` `rengine` `gbe_fork` `trape`
+
+**DevOps / 云原生 / 网络** (3)
+
+`x-algorithm` `searxng` `kubernetes-the-hard-way`
+
+**性能分析 / 调试** (3)
+
+`py-spy` `tracy` `perfetto`
+
+**教程 / 资源 / 其他** (11)
+
+`pretext` `arnis` `alt-sendme` `go` `ChatGPT-Shortcut` `core` `Prompt-Engineering-Guide` `ai-engineering-hub` `godot` `algo` `DOOM`
+
+---
 
 ### AI Agent / Agent 框架
 
