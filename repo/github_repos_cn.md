@@ -1,6 +1,8 @@
 # GitHub repo索引 — lvy010
 
 > 仓库总数：**238** 个（个人 28 个，Fork 210 个）
+>
+> LM: Last Modified
 
 ---
 
@@ -85,77 +87,62 @@
 
     - AI 技术探索合集。涵盖微信机器人、AI Agent、图像生成、CUDA、机器人、RAG、神经网络等多方向的实验代码。
     - LM: 2026-03-22
-
 14. [Issues-bot](https://github.com/lvy010/Issues-bot) `TypeScript`
 
     - GitHub Issue 自动处理机器人。自动分析 Issue 内容并辅助解决，减少维护者的重复劳动。
     - LM: 2026-03-06
-
 15. [cpp-sandbox](https://github.com/lvy010/cpp-sandbox) `C++`
 
     - C++ 库学习沙盒。涵盖 STL、多媒体、网络、UI、机器人等方向的代码笔记与实践。
     - LM: 2025-12-30
-
 16. [Vela-Audio](https://github.com/lvy010/Vela-Audio) `C`
 
     - 基于 Xiaomi OpenVela 框架的图形化音乐播放器。在嵌入式平台上实现带 GUI 的音频播放应用。
     - LM: 2025-09-30
-
 17. [Typora-lvy-theme](https://github.com/lvy010/Typora-lvy-theme) `CSS`
 
     - 自定义 Typora 主题。为 Markdown 编辑器 Typora 设计个性化外观样式。
     - LM: 2025-09-15
-
 18. [piano-embers](https://github.com/lvy010/piano-embers)
 
     - 视频备份仓库。存放个人视频素材。
     - LM: 2026-01-29
-
 19. [py_experiment](https://github.com/lvy010/py_experiment) `Python`
 
     - Python 课程实验代码。存放课程作业与实验项目。
     - LM: 2025-12-28
-
 20. [web.asia](https://github.com/lvy010/web.asia) `HTML`
 
     - 个人作品集网站。用 HTML 搭建的个人 Portfolio 页面，展示项目经历。
     - LM: 2025-12-17
-
 21. [linux-core](https://github.com/lvy010/linux-core) `C`
 
     - Linux 内核学习笔记。阅读内核源码过程中的代码注释与整理（进行中）。
     - LM: 2025-12-11
-
 22. [OpenMind](https://github.com/lvy010/OpenMind)
 
     - 协作知识共享空间。提供开放的思考与知识分享平台。
     - LM: 2025-12-08
-
 23. [rCore](https://github.com/lvy010/rCore)
 
     - 用 Rust 编写操作系统。跟随 rCore 教程从零实现一个教学操作系统，深入理解 OS 原理。
     - LM: 2025-10-21
-
 24. [typora-auto-scroll](https://github.com/lvy010/typora-auto-scroll)
 
     - Typora 自动滚动插件。解决长文阅读时需要手动翻页的不便，实现自动滚屏功能。
     - LM: 2025-10-09
-
 25. [In-code](https://github.com/lvy010/In-code) `JavaScript`
 
     - 计算机内部资源收藏网站。汇集计算机相关学习资料与链接的导航站点。
     - LM: 2025-09-17
-
 26. [Homework](https://github.com/lvy010/Homework)
 
     - 学校课程代码。存放日常课程作业与编程练习。
     - LM: 2025-09-16
-
 27. [sum-bot](https://github.com/lvy010/sum-bot) `HTML`
 
     - 摘要助手。输入长文本自动生成精简摘要，提升阅读效率。
     - LM: 2025-09-15
-
 28. [Component-study](https://github.com/lvy010/Component-study) `C#`
 
     - 组件学习笔记。记录各类软件组件的学习代码与实践。
