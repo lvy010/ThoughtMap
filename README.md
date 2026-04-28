@@ -1,12 +1,32 @@
 # X-Plore
 
-已部署到个人网站上啦https://lvyovo-wiki.tech
+<p align="center">
+  <samp>
+    <a href="https://b23.tv/adNU4UH">作品集</a> ·
+    <a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
+    <a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
+    <a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
+    <a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
+    <a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
+    <a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
+    <a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a> ·
+    <a href="./data/CV.pdf">CV</a> ·
+    <a href="https://lvyovo-wiki.tech/blog/25sum">2025学习分享</a> ·
+    <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++自学</a>
+  </samp>
+</p>
 
-![预览](./png/web.png)
+喜欢解决问题和看各种设计 · 快速学习并沉淀系统文档 · 自己理解后分享
+
+---
+
+已部署到[个人网站](https://lvyovo-wiki.tech)上啦
+
+<img src="./png/web.png" alt="预览" width="200">
 
 关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
 
---------
+---
 
 Core: Document everything - recording the learning process itself is a contribution.
 
@@ -15,6 +35,7 @@ Core: Document everything - recording the learning process itself is a contribut
 算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
 
 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅
+
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
 | ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
@@ -40,11 +61,9 @@ Core: Document everything - recording the learning process itself is a contribut
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
 
-
 in process：
 
 [√]对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获，大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...
-
 
 ### Re:Discussions
 
@@ -57,10 +76,10 @@ in process：
 #### in process
 
 - [Re:Project - Building Boost-Search from Scratch](https://github.com/lvy010/boost_searcher)
-
 - [Re:Project - Building Json-RPC from Scratch](https://github.com/lvy010/nano-Json-Rpc)
 
 #### the next article
+
 内容比较多，可能需要一些时间，可以先mark一下~有什么感兴趣想先看到的选题，可以在issue中对专栏表格中的内容进行讨论交流/投票
 
 - [[Discussions]从零开始的讨论专栏٩( 'ω' )و #1](https://github.com/lvy010/X-Plore/issues/1)
@@ -76,18 +95,21 @@ in process：
 - 所有笔记 & 代码均为开源，可以自由获取/引用/改造，二创可以fork一份
 
 tips:
+
 - 如果没使用过 GitHub，复制仓库链接给 AI 并提问——“我该如何把这个仓库 clone 到本地使用”，碰到问题继续追问 AI，刚好实践学一下GitHub使用方法~
 - 如何从0开始参与开源：可以这个专栏+AI了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，然后自己创建一个repo练手/直接用这个仓库也行，支持一切有助于学习&进步的操作&想法
 
---------
+---
+
 ### to do list
 
 [√]Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
+
 - github-agent初步实现:https://github.com/lvy010/github-agent
 
 由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化ing
 
-寒假计划: 
+寒假计划:
 
 1. ~~添加表单版索引（update 12.7）~~
 2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
@@ -99,7 +121,8 @@ tips:
 - Gradually updating the “Re: CS – From Zero to X” series.
 - Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey.
 
------
+---
+
 # Map
 
 <a id="llm-slm-vllm"></a>
@@ -1246,7 +1269,6 @@ tips:
 <a id="算法随记"></a>
 
 ### 算法随记
-
 
 <a id="shell"></a>
 
