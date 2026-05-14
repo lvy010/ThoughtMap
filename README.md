@@ -1,5 +1,34 @@
 # X-Plore
 
+<p>
+  <a href="https://lvyovo-wiki.tech/">
+    <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+  </a>
+  <a href="https://leetcode.cn/u/hhczc/">
+    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+  </a>
+  <a href="mailto:lvyovo01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <br/>
+  <a href="https://xhslink.com/m/A0RmObjbu2e">
+    <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
+  </a>
+  <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-lvyneko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
+  </a>
+  <a href="https://blog.csdn.net/2301_80171004?type=blog">
+    <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
+  </a>
+</p>
+
+- **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
+- **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
+
+已部署到[个人网站](https://lvyovo-wiki.tech)上啦
+
+<img src="./png/web.png" alt="预览" width="200">
+
 <p align="center">
   <samp>
     <a href="https://b23.tv/adNU4UH">作品集</a> ·
@@ -16,13 +45,7 @@
   </samp>
 </p>
 
-喜欢解决问题和看各种设计 · 快速学习并沉淀系统文档 · 自己理解后分享
-
----
-
-已部署到[个人网站](https://lvyovo-wiki.tech)上啦
-
-<img src="./png/web.png" alt="预览" width="200">
+I like solving problems and exploring various designs · Quickly learning and consolidating systematic documentation · Sharing after gaining my own understanding
 
 关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
 
