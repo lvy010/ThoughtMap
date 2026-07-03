@@ -1,53 +1,44 @@
 # X-Plore
 
 <p>
-  <a href="https://lvyovo-wiki.tech/">
-    <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
-  </a>
   <a href="https://leetcode.cn/u/hhczc/">
-    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-D8A7B1?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="mailto:lvyovo01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-  <br/>
-  <a href="https://xhslink.com/m/A0RmObjbu2e">
-    <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
-  </a>
-  <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">
-    <img src="https://img.shields.io/badge/Bilibili-lvyneko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
+    <img src="https://img.shields.io/badge/lvyovo01%40gmail.com-C9B6E4?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://blog.csdn.net/2301_80171004?type=blog">
-    <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
+    <img src="https://img.shields.io/badge/Views%201400K%2B-F2C6A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
+  </a>
+    <a href="https://xhslink.com/m/A0RmObjbu2e">
+    <img src="https://img.shields.io/badge/lvyneko-B8D8D8?style=flat-square&logo=xiaohongshu&logoColor=white" alt="xiaohongshu"/>
   </a>
 </p>
 
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 
-已部署到[个人网站](https://lvyovo-wiki.tech)上啦
+部署到[个人网站](https://lvyovo-wiki.tech)上啦
 
 <img src="./png/web.png" alt="预览" width="200">
-
-<p align="center">
-  <samp>
-    <a href="https://b23.tv/adNU4UH">作品集</a> ·
-    <a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
-    <a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
-    <a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
-    <a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
-    <a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
-    <a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
-    <a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a> ·
-    <a href="./data/CV.pdf">CV</a> ·
-    <a href="https://lvyovo-wiki.tech/blog/25sum">2025学习分享</a> ·
-    <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++自学</a>
-  </samp>
-</p>
 
 I like solving problems and exploring various designs · Quickly learning and consolidating systematic documentation · Sharing after gaining my own understanding
 
 关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
+
+<p>
+<a href="https://b23.tv/adNU4UH">作品集</a> ·
+<a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
+<a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
+<a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
+<a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
+<a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
+<a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
+<a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a> ·
+<a href="./data/CV.pdf">CV</a> ·
+<a href="https://lvyovo-wiki.tech/blog/25sum">2025学习分享</a> ·
+<a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++自学</a>
+</p>
 
 ---
 
@@ -61,7 +52,7 @@ Core: Document everything - recording the learning process itself is a contribut
 
 
 | 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
-| ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
+| --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ |
 | [LLM \| SLM \| vLLM](#llm-slm-vllm)                 | [illustrate_column](#illustratecolumn)            | [🌱开源指南project-based-learn](#开源指南project-based-learn) | [AIGC & Math \[Think\]](#aigc-math-think)  |
 | [💡AI底层&生态](#ai底层生态)                        | [🔥AI框架&应用](#ai框架应用)                      | [强化学习RL](#强化学习rl)                                     | [Quantification](#quantification)          |
 | [Unmanned Aerial Vehicle](#unmanned-aerial-vehicle) | [Compilation Principles](#compilation-principles) | [K8S](#k8s)                                                   | [PHP](#php)                                |
