@@ -26,19 +26,20 @@ I like solving problems and exploring various designs · Quickly learning and co
 
 关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
 
-<p>
-<a href="https://b23.tv/adNU4UH">作品集</a> ·
-<a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
-<a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
-<a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
-<a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
-<a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
-<a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
-<a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a> ·
-<a href="./data/CV.pdf">CV</a> ·
-<a href="https://lvyovo-wiki.tech/blog/25sum">2025学习分享</a> ·
-<a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++自学</a>
-</p>
+<p align="center">
+  <a href="https://b23.tv/adNU4UH">作品集</a> ·
+  <a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
+  <a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
+  <a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
+  <a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
+  <a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
+  <a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
+  <a href="http://xhslink.cn/o/AqPqMo8m3Ga">亚洲最大的hackthon双奖</a> ·
+  <a href="./data/CV.pdf">CV</a> ·
+  <a href="https://lvyovo-wiki.tech/blog/25sum">2025 sum</a> ·
+  <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++</a> ·
+   <a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a>
+</p> 
 
 ---
 
